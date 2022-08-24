@@ -8,6 +8,8 @@
 // -- a method to validate an email
 // return an error array once all checks are done
 
+// uservalidator
+
 class Uservalidator{
 
     private $data;   //holds the post data 
